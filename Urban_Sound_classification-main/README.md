@@ -6,18 +6,18 @@ The programmed content-based order of urban sound classes is a significant part 
 For the evaluation of our method, we use UrbanSound8k dataset. The dataset consists of 10 environmental sounds excerpts from urban area such as air conditioner, car horn, children playing, dog bark, drilling, engine idling, gun shot, jackhammer, siren and street music. It contains 8732 labeled sound samples excerpts of up to 4 seconds duration, 9.7 hours in total. The sound files are accompanied with a .csv file that contains the description of the sound files. 
 
 
-  <img src="https://github.com/TanishqSehgal7/Urban-Sound-Classification/blob/main/UrbanSoundClassificationImages/dataset.jpeg" width="350">
+  <img src="https://github.com/TanishqSehgal7/Urban-Sound-Classification/blob/main/UrbanSoundClassificationImages/dataset.jpeg" width="500" height="300">
 
 
 Following are some of the plots obtained from the user defined function 'Wave Plotter'
 
-<img src="https://github.com/TanishqSehgal7/Urban-Sound-Classification/blob/main/UrbanSoundClassificationImages/audio_plot1.jpeg" width="350">
+<img src="https://github.com/TanishqSehgal7/Urban-Sound-Classification/blob/main/UrbanSoundClassificationImages/audio_plot1.jpeg" width="350" height="250">
 
 
-<img src="https://github.com/TanishqSehgal7/Urban-Sound-Classification/blob/main/UrbanSoundClassificationImages/audio_plot2.jpeg" width="350">
+<img src="https://github.com/TanishqSehgal7/Urban-Sound-Classification/blob/main/UrbanSoundClassificationImages/audio_plot2.jpeg" width="350" height="250">
 
 
-<img src="https://github.com/TanishqSehgal7/Urban-Sound-Classification/blob/main/UrbanSoundClassificationImages/audio_plot3.jpeg" width="350">
+<img src="https://github.com/TanishqSehgal7/Urban-Sound-Classification/blob/main/UrbanSoundClassificationImages/audio_plot3.jpeg" width="350" height="250">
 
 
-<img src="https://github.com/TanishqSehgal7/Urban-Sound-Classification/blob/main/UrbanSoundClassificationImages/audio_plot4.jpeg" width="350">
+<img src="https://github.com/TanishqSehgal7/Urban-Sound-Classification/blob/main/UrbanSoundClassificationImages/audio_plot4.jpeg" width="350" height="250">
