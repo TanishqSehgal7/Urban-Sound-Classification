@@ -11,7 +11,7 @@ For the evaluation of our method, we use UrbanSound8k dataset. The dataset consi
 
 
 
-Following are some of the plots obtained from the user defined function 'Wave Plotter'
+# Following are some of the plots obtained from the user defined function 'Wave Plotter'
 
 
 
@@ -35,7 +35,7 @@ Following are some of the plots obtained from the user defined function 'Wave Pl
 
 
 
-Following are the spectrogram plots of different sound waves. Plot values of these spectrograms have been passed through the convolution layer to categorise the class of the sound clip.
+# Following are the spectrogram plots of different sound waves. Plot values of these spectrograms have been passed through the convolution layer to categorise the class of the sound clip.
 
 
 
@@ -71,7 +71,7 @@ Following are the spectrogram plots of different sound waves. Plot values of the
 
 
 
-The accuracy of the CNN model is obtained as :
+# The accuracy of the CNN model is obtained as :
 
 
 
