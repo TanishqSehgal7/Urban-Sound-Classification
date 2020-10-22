@@ -21,3 +21,31 @@ Following are some of the plots obtained from the user defined function 'Wave Pl
 
 
 <img src="https://github.com/TanishqSehgal7/Urban-Sound-Classification/blob/main/UrbanSoundClassificationImages/audio_plot4.jpeg" width="350" height="250">
+
+
+Following are the spectrogram plots of different sound waves. Plot values of these spectrograms have been passed through the convolution layer to categorise the class of the sound clip.
+
+
+<img src="https://github.com/TanishqSehgal7/Urban-Sound-Classification/blob/main/UrbanSoundClassificationImages/spectrogram1.jpeg" width="350" height="250">
+
+
+<img src="https://github.com/TanishqSehgal7/Urban-Sound-Classification/blob/main/UrbanSoundClassificationImages/spectrogram2.jpeg" width="350" height="250">
+
+
+<img src="https://github.com/TanishqSehgal7/Urban-Sound-Classification/blob/main/UrbanSoundClassificationImages/spectrogram2.jpeg" width="350" height="250">
+
+
+<img src="https://github.com/TanishqSehgal7/Urban-Sound-Classification/blob/main/UrbanSoundClassificationImages/spectrogram3.jpeg" width="350" height="250">
+
+
+<img src="https://github.com/TanishqSehgal7/Urban-Sound-Classification/blob/main/UrbanSoundClassificationImages/spectrogram4.jpeg" width="350" height="250">
+
+
+<img src="https://github.com/TanishqSehgal7/Urban-Sound-Classification/blob/main/UrbanSoundClassificationImages/spectrogram5.jpeg" width="350" height="250">
+
+
+
+The accuracy of the CNN model is obtained as :
+
+
+<img src="https://github.com/TanishqSehgal7/Urban-Sound-Classification/blob/main/UrbanSoundClassificationImages/accuracy.jpeg" width="350" height="250">
